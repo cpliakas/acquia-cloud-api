@@ -47,7 +47,7 @@ class CloudApi
      * @param string $path
      * @param array $data
      */
-    public function sendRequest($method, $path, array $data)
+    public function sendRequest($method, $path, array $data = array())
     {
         if (self::METHOD_GET == $method) {
             $data = array('query' => $data);
