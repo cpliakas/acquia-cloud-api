@@ -1,4 +1,6 @@
-nbproject/
-bootstrap.php
 composer.lock
+conf/*
+!conf/.placeholder
+build
+nbproject
 vendor

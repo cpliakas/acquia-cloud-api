@@ -9,6 +9,10 @@
         {
             "name": "Chris Pliakas",
             "email": "opensource@chrispliakas.com"
+        },
+        {
+            "name": "See contributors",
+            "homepage": "https://github.com/cpliakas/acquia-cloud-api/graphs/contributors"
         }
     ],
     "require": {
